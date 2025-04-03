@@ -16,14 +16,16 @@
               aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
-
-            <div class="navbar-nav">
-                <a href="" class="nav-link active">Home</a>
-                <a href="" class="nav-link ">Clientes</a>
-                <a href="" class="nav-link ">Funcionarios</a>
-                <a href="" class="nav-link">Produtos</a>
-                <a href="" class="nav-link ">Vendas</a>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                    <a href="" class="nav-link active">Home</a>
+                    <a href="" class="nav-link ">Clientes</a>
+                    <a href="" class="nav-link ">Funcionarios</a>
+                    <a href="" class="nav-link">Produtos</a>
+                    <a href="" class="nav-link ">Vendas</a>
+                </div>  
             </div>
+            
         </div>
       </nav>
 
